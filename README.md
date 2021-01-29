@@ -1,5 +1,5 @@
 # Bigtreetech TFT preview Cura plugin
-Little revision about this BTT pluging with italian translations. Find the original one here: https://github.com/bigtreetech/Bigtree3DPluginSuit
+Little revision about this BTT pluging with italian translations, and now also with english version. Find the original one here: https://github.com/bigtreetech/Bigtree3DPluginSuit
 
 video guide: https://youtu.be/YLqixjcND5U
 
